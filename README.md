@@ -7,7 +7,7 @@ Team members:
     5-Fatemeh MoosaeiPour
     6-Fahimeh TajAbadi
     
-This is a repository for the game development class 
+This Is A Repository For The Game Development Class 
 
 We work with Blender and Unreal Engin 
 
