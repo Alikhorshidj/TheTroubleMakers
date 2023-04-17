@@ -4,6 +4,8 @@ Team members:
     2-Iman IranNejad
     3-Mahboob Mahmoodi
     4-Mahla Ranjbar
+    5-Fatemeh MoosaeiPour
+    6-Fahimeh TajAbadi
     
 This is a repository for the game development class 
 
